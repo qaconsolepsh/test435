@@ -1,4 +1,4 @@
-# Upsun configuration, generated using AI at: 2026-05-04T15:48:01.882Z
+# Upsun configuration, generated using AI at: 2026-05-04T15:59:10.878Z
 # AI can make mistakes. Please modify this file to suit your needs.
 applications:
   app:
@@ -17,3 +17,5 @@ routes:
   https://{default}/:
     type: upstream
     upstream: app:http
+
+    
